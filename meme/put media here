@@ -1,1 +1,20 @@
-put media here
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Thumbnail image/gif -->
+    <meta property="og:image" content="https://raw.githubusercontent.com/Tencta/silly/23a2eb8ca0e29c801ecf88e1d737ccdf8452cb3f/media/togif-4.gif">
+    
+    <!-- Video Link -->
+    <meta property="og:type" content="video.other">
+    <meta property="og:video:url" content="https://github.com/Tencta/silly/raw/main/media/Snapinsta.app_video_321720710_3396844870568759_2903369126381719218_n.mov">
+    
+    <!-- Change video width and height to match gif -->
+    <meta property="og:video:height" content="1350">
+    <meta property="og:video:width" content="1080">
+    
+    <!-- Redirect -->
+    <meta http-equiv="refresh" content="0; url=https://femboys.live/" />
+  </head>
+  <body>
+  </body>
+</html>
